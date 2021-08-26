@@ -3,7 +3,7 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leofuria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Leofuria's GitHub stats](https://github-readme-stats.vercel.app/api?username=leofuria&show_icons=true&theme=radical)
+![Leofuria's GitHub stats](https://github-readme-stats.vercel.app/api?username=leofuria&show_icons=true&theme=merko&show_owner=true)
 -->
 
 <!--
